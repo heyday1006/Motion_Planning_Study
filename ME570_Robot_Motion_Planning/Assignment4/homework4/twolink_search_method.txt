@@ -1,0 +1,39 @@
+flagTorus: 1
+Case: Easy
+Method: bfs Computation time:1.1069
+Method: greedy Computation time:0.38493
+Method: astar Computation time:0.52718
+Case: Medium
+Method: bfs Computation time:1.1294
+Method: greedy Computation time:0.31688
+Method: astar Computation time:0.93308
+Case: Hard
+Method: bfs Computation time:1.238
+Method: greedy Computation time:1.1574
+Method: astar Computation time:1.1989
+flagTorus: 1
+Case: Easy
+Method: bfs Computation time:1.3054
+Method: greedy Computation time:0.44645
+Method: astar Computation time:0.60738
+Case: Medium
+Method: bfs Computation time:1.3188
+Method: greedy Computation time:0.37068
+Method: astar Computation time:1.1446
+Case: Hard
+Method: bfs Computation time:1.5162
+Method: greedy Computation time:1.4282
+Method: astar Computation time:1.4996
+flagTorus: 0
+Case: Easy
+Method: bfs Computation time:1.0135
+Method: greedy Computation time:0.37344
+Method: astar Computation time:0.6634
+Case: Medium
+Method: bfs Computation time:1.0137
+Method: greedy Computation time:0.31004
+Method: astar Computation time:0.9642
+Case: Hard
+Method: bfs Computation time:1.0981
+Method: greedy Computation time:1.083
+Method: astar Computation time:1.111

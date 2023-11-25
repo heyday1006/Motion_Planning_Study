@@ -1,0 +1,14 @@
+flagTorus: 1
+Case: Easy
+Method: bfs Computation time:1.0761
+Method: greedy Computation time:0.16282
+Method: astar Computation time:0.34557
+Case: Medium
+Method: bfs Computation time:1.0862
+Method: greedy Computation time:0.074495
+Method: astar Computation time:0.84874
+Case: Hard
+Method: bfs Computation time:1.2757
+Method: greedy Computation time:1.1644
+Method: astar Computation time:1.2686
+

@@ -1,0 +1,16 @@
+theta=[0;1];
+thetaDot=[1;0];
+twolink_jacobianMatrix(theta)*thetaDot
+
+ans =
+
+   -4.2074
+    7.7015
+
+twolink_jacobian(theta,thetaDot)
+
+ans =
+
+   -4.2074
+    7.7015
+
