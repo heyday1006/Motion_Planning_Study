@@ -1,5 +1,12 @@
+ | | | 
+| ---| ---| 
+| Potential-based <img src = "ME570_Robot_Motion_Planning/imgs/Potential.jpg" height=150 width=150> | CLF-CBF <ME570_Robot_Motion_Planning/imgs/CLF_CBF.jpg" width=300> | 
+|A* <ME570_Robot_Motion_Planning/imgs/A_star.jpg" height=150 width=150> | Sampling tree <img src = "ME570_Robot_Motion_Planning/imgs/est_Goal1.jpg" width=300> |
+|A* <MECSE4603_Applied_Robotics/imgs/fwk_lwr.png" height=150 width=150> | Sampling tree <img src = "MECSE4603_Applied_Robotics/imgs/ur5.gif" width=300> |
+
+
 # MotionPlanning_assignments
-This repository contains the assignments of Motion Planning course. Each folder contains the homework instruction and my Matlab implementation for the final report.
+This repository contains the assignments of Motion Planning course. Each folder contains the homework instruction (pdf file) and my Matlab implementation for the final report.
 
 1. Assignment 1
    - Problem 1: Drawing, visibility and collisions for 2-D polygons
@@ -28,3 +35,12 @@ This repository contains the assignments of Motion Planning course. Each folder 
 
 5. Assignment 5
    - Problem 1: Sampling tree
+
+
+# AppliedRobotics_assignments
+This repository contains the assignments of Applied Robotics course. Each folder contains the homework instruction (md file) and my ROS/Python implementation.
+1. Assignment 1: Transformation
+2. Assignment 2: Forward Kinematics on Kuka LWR and Universal UR5
+3. Assignment 3: Cartesian Control and Numerical IK on Kuka LWR and Universal UR5
+4. Assignment 4: RRT algorithm for sampling-based motion planning on Kuka LWR
+5. Assignment 5: Extended Kalman Filter with GUI
