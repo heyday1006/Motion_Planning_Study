@@ -1,6 +1,0 @@
-qp_test
-Case 1: the optimal u is [-1.00,-1.00] and delta is 0.00 
-Case 2: the optimal u is [-0.33,-0.33] and delta is -0.33 
-Case 3: the optimal u is [0.00,0.00] and delta is -0.00 
-Case 4: the optimal u is [-0.00,-0.00] and delta is -0.00 
-diary off
